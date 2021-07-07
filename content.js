@@ -17,6 +17,8 @@ if(url.match("www.youtube")) {
 }
 
 if(url.match("www.netflix")) {
+    console.log("Follow Insula415 on TikTok!")
+    
     const desc = document.getElementsByClassName("synopsis");
     for (let i=0;i<desc.length;i++) {
         desc[i].innerText = mainText;
