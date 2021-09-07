@@ -9,4 +9,4 @@ Chrome extension to stop you from procrastinating!
 3. Find and click "load unpacked" (may have to turn on developer mode), then select the repository folder
 4. And there you go! Everything should be ready to go!
 
-Looking to do more on this extension so be on the watch!
+This extension is very simple, feel free to modify the code to make it better
