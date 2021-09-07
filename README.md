@@ -1,7 +1,7 @@
 # chrome-extension
 Chrome extension to stop you from procrastinating!
 
-<img src="prev.png" />
+<img src="prev.PNG" />
 
 # Setup
 1. Download this repository and unzip it 
