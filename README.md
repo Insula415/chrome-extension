@@ -1,5 +1,5 @@
 # chrome-extension
-Chrome extension to stop you from procrastinating!
+Chrome extension to stop you from procrastinating! Currently works on YouTube and Netflix
 
 <img src="prev.PNG" />
 
