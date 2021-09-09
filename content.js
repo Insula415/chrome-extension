@@ -3,7 +3,6 @@ mainText = "You better get back to work";
 
 url = window.location.href;
 if(url.match("www.youtube")) {
-    console.log("Follow Insula415 on TikTok!")
 
     const headers = document.getElementsByTagName("yt-formatted-string");
     for (let i=0; i<headers.length; i++) {
